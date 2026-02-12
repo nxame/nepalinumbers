@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/danfebooks/nepalinumbers#readme",
   "devDependencies": {
-    "np": "^6.2.3"
+    "np": "^11.0.2"
   }
 }
